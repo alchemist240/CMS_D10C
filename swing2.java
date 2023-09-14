@@ -13,9 +13,6 @@ class swing2 extends JFrame  implements ActionListener {
     private JComboBox cb;
 
 
-
-
-
     public swing2() {
         setTitle("Classroom Management system--D10C");
         setSize(1500, 1500);
